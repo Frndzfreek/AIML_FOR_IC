@@ -212,9 +212,6 @@ The models are evaluated using multiple metrics:
 * Specificity
 * F1-score
 * Balanced Accuracy
-* Matthews Correlation Coefficient (MCC)
-* ROC-AUC
-* PR-AUC
 * Confusion Matrix
 
 Balanced accuracy is particularly important because of the severe class imbalance between hotspot and non-hotspot samples.

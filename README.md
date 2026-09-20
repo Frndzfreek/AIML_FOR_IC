@@ -36,8 +36,8 @@ The classification task is binary:
 
 | Class             | Label |
 | ----------------- | ----: |
-| Non-Hotspot (NHS) |     0 |
-| Hotspot (HS)      |     1 |
+| Hotspot (HS)       |     1 |
+| Non-Hotspot (NHS)  |     0 |
 
 Each benchmark contains training and testing data consisting of hotspot and non-hotspot layout patterns.
 
